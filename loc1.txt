@@ -1,0 +1,1196 @@
+ELEV	LAT	LON
+aixas	42.4833	1.46667
+aixirivali	42.4667	1.5
+andorra	42.5	1.51
+ansalonga	42.5667	1.51667
+anyos	42.5333	1.53333
+arans	42.5833	1.51667
+arinsal	42.5667	1.48333
+aubinya	42.45	1.5
+bicisarri	42.4833	1.46667
+canillo	42.5667	1.6
+casas vila	42.5333	1.56667
+certers	42.4667	1.5
+el pui	42.55	1.516
+els bons	42.5333	1.58333
+el serrat	42.6167	1.55
+els plans	42.5833	1.63333
+el tremat	42.55	1.583
+el vilar	42.5667	1.6
+encamp	42.5333	1.58333
+engordany	42.5167	1.55
+ercs	42.5667	1.5
+escaldas	42.5	1.53
+escas	42.55	1.516
+fontaneda	42.45	1.466
+juberri	42.4333	1.5
+la cortinada	42.5667	1.51667
+la costa	42.5833	1.63333
+las escadas	42.5	1.53
+les bons	42.5333	1.58333
+les escaldes	42.5	1.53
+llumeneres	42.4667	1.51667
+lors	42.6	1.53
+lo serrat	42.6167	1.55
+mas d'alins	42.4333	1.45
+mas de ribafeta	42.5667	1.48333
+meritxell	42.55	1.6
+nagol	42.4667	1.5
+ordino	42.55	1.533
+prats	42.5667	1.6
+ransol	42.5833	1.63333
+sanctuaire de meritxeli	42.55	1.6
+san joan de casettas	42.5667	1.61667
+san julia	42.4667	1.5
+sant joan de casellas	42.5667	1.61667
+sant julia de loria	42.4667	1.5
+sant pere	42.5833	1.65
+santuari de meritxell	42.55	1.6
+sertes	42.4667	1.5
+sispony	42.5333	1.51667
+soldeu	42.5833	1.66667
+sornas	42.5667	1.53333
+vila	42.5333	1.56667
+vixesarri	42.4833	1.46667
+xixerella	42.55	1.483
+abu dabi	24.4667	54.3667
+abu hail	25.2855	55.3296
+abu zabi	24.4667	54.3667
+ad dharbaniya	25.7833	55.9333
+adgat	25.4987	56.3583
+adh dhaid	25.2881	55.8816
+adhin	25.4601	56.0126
+afarah	25.0411	56.3149
+`ain	24.2127	55.7835
+ain al ghamur	24.9595	56.3159
+`ain dhawahir	24.2127	55.7835
+ajima	25.3983	56.1507
+akamiya	25.6003	56.2691
+al abadilah	25.4535	56.1899
+al ain	24.1917	55.7606
+al ajman	25.4069	55.4441
+al `ayn	24.9595	56.3159
+al badiyah	25.4323	56.3457
+al bithnah	25.1895	56.2352
+al daid	25.2881	55.8816
+al dini	25.9323	56.4051
+al duss	25.9073	56.393
+al fai	26.0214	56.0914
+al fiyya	24.298	53.2114
+al-fudjayra	25.1164	56.3414
+al fuqait	25.5997	56.3425
+al fuyay'	24.298	53.2114
+al-ghil	25.4017	56.0681
+algida	25.9961	56.0842
+al gissemari	25.1434	56.2484
+al hagarein	24.799	56.1154
+al haira	25.3815	55.4196
+alhala	25.4774	56.1824
+al hama'im	22.958	54.2972
+al hamra'	25.7091	55.8077
+al hamriya	25.4782	55.5338
+al hayir	25.9786	56.0853
+al hayl	25.0922	56.2442
+al hinya	25.3509	56.0253
+al-hirah	25.3815	55.4196
+al-humaimah	22.958	54.2972
+al ian	24.2127	55.7835
+aliya	25.354	55.3719
+al jazirah al hamra'	25.7091	55.8077
+al jima	24.2491	55.7458
+al khalabiya	25.3812	56.1736
+al kharan	25.7162	55.9678
+al khatt	25.6173	56.0111
+al khawiya	25.9956	56.3805
+al khulaybiyah	25.3812	56.1736
+al layyah	25.354	55.3719
+al maham	25.675	55.99
+al-mariyya al-gharbyya	23.1027	53.5818
+al-mariyya	23.1385	53.7426
+al-mirfa'	24.0991	53.4908
+al mu`taridh	24.219	55.7399
+al muwaijh	24.2017	55.7164
+al-nashash	23.0811	54.0364
+al-naslah	24.8659	56.2609
+al odeid	24.6167	51.4
+al-qatarah	24.2599	55.7557
+al qawr	24.9121	56.0957
+al qima	24.2491	55.7458
+al qor	24.9121	56.0957
+al-rol	25.6011	56.3228
+al saad	24.15	55.76
+al satwa	25.229	55.2723
+al selimat	24.2219	55.6031
+al sharjah	25.3573	55.4033
+al-tarif	24.054	53.7635
+al-'udaid	24.6167	51.4
+al wathba	24.2596	54.7078
+an naslah	24.8659	56.2609
+aqqa	25.4987	56.3583
+`arada	22.9923	53.4289
+araibi	25.7895	55.9767
+ar ru'ays	24.1103	52.7306
+ash 'mariqah	25.3573	55.4033
+`asimah	25.3983	56.1507
+as salihiyah	25.7216	55.9908
+as saqamqam	25.1747	56.3304
+athaba	25.1636	56.0962
+at tarif	24.054	53.7635
+`awanat	25.3658	55.8562
+ayaina	25.4528	56.1688
+ayn al faidah	24.0833	55.6833
+`ayn al ghamur	24.9595	56.3159
+`ayn zawahir	24.2127	55.7835
+badiya	25.4323	56.3457
+bandar mirfah	24.0991	53.4908
+barahah	25.2667	55.3167
+batain	24.4429	54.3554
+bidayarat margham	24.8708	55.5491
+bidiya	25.4323	56.3457
+bid' zayed	23.6307	53.7299
+bilaida	25.2239	56.2022
+bithna	25.1895	56.2352
+budayyah	25.4323	56.3457
+bulaidha	25.2239	56.2022
+chuwais	25.781	55.9787
+daba al-ghurfah	25.5977	56.2767
+daba al-hisn	25.6195	56.2729
+dabei	25.2582	55.3047
+dadna	25.5242	56.3587
+dafir	23.1273	53.7544
+dafta	25.2723	56.1835
+daira	25.2731	55.3064
+dasa	24.2784	52.6237
+datta	25.2723	56.1835
+dayd	25.2881	55.8816
+deira	25.2731	55.3064
+dhadna	25.5242	56.3587
+dhafir	23.1273	53.7544
+dhaiah	25.8878	56.0582
+dhaid	25.2881	55.8816
+dhaiyah	25.8878	56.0582
+dhawaihir	23.2833	53.2
+dhayd	25.2881	55.8816
+dhuwaiher	23.1392	53.6934
+diba al hisn	25.6195	56.2729
+dibai	25.2582	55.3047
+dibba	25.6195	56.2729
+digdagga	25.6656	55.969
+dirah	25.2731	55.3064
+dubai	25.2582	55.3047
+duhayd	25.2881	55.8816
+duwaihir	23.2833	53.2
+duwayhin	23.0773	54.0842
+el ain	24.2127	55.7835
+fahlain	25.6841	55.9675
+faiyada	24.9577	56.206
+fakkan	25.3313	56.342
+falaiya	25.7348	55.9828
+falaj al ali	25.354	55.8533
+fara	25.4143	56.0912
+farfar	25.1484	56.2224
+fashra	24.8841	56.2053
+fayyadah	24.9577	56.206
+fili ma`ala	25.354	55.8533
+fort dabei	25.2582	55.3047
+fujaira	25.1164	56.3414
+fulayyah	25.7348	55.9828
+furfar	25.1484	56.2224
+gargaha	25.7667	56.0667
+garmada	23.1196	53.8286
+ge'aisa	22.9941	54.2218
+ghadaf	25.2836	56.1741
+ghail	25.4017	56.0681
+ghalla	25.0746	56.3554
+ghamara	25.2942	56.1701
+gharaifah	25.125	56.3538
+ghob	25.5659	56.2022
+ghubbah	26.0489	56.1533
+ghubbat khawarah	26.0428	56.135
+ghumrah	25.2942	56.1701
+ghuna	25.2699	56.3143
+ghura	25.2197	56.2076
+ghurayfah	25.125	56.3538
+girath	25.2609	56.3543
+habhab	25.6156	56.0044
+hadaibah	25.7977	55.9803
+hadhi	23.1064	53.9953
+hail	25.2855	55.3296
+haira	25.3815	55.4196
+hajarain	24.799	56.1154
+hama'im	22.958	54.2972
+hamra	25.7091	55.8077
+hamriya	25.4782	55.5338
+harra	24.9904	56.2167
+hayrah	25.3815	55.4196
+hil	25.705	55.987
+hili	24.2847	55.7633
+hisn diba	25.6195	56.2729
+hiweitein	23.119	53.9284
+hiyawa	25.3604	56.3477
+howeilat	24.8766	56.1737
+humaym	22.958	54.2972
+husn dibba	25.6195	56.2729
+huwaila	23.152	53.8246
+huwaitin	23.119	53.9284
+huweilah	23.152	53.8246
+idhn	25.4601	56.0126
+ihaid	25.2881	55.8816
+istaihah	23.3161	54.0672
+jareef	25.5142	56.0719
+jarmada	23.1196	53.8286
+je`eisah	22.9941	54.2218
+jeraira	22.9408	54.3102
+jimeirah	25.2048	55.2466
+jimi	24.2491	55.7458
+juhr	24.25	55.58
+julfa	25.7895	55.9432
+jumairah	25.2048	55.2466
+kalbah	25.0746	56.3554
+kayya	23.157	53.6854
+khaimah	25.7895	55.9432
+khalaibiyah	25.3812	56.1736
+khan	25.3314	55.359
+khauran	25.7162	55.9678
+khawr al fakkan	25.3313	56.342
+khawr al kalba	25.0384	56.3626
+khawran	25.7162	55.9678
+khawr mala	25.8013	56.3511
+khawr za`ab	25.0384	56.3626
+khor al fakhan	25.3313	56.342
+khor al kalba	25.0384	56.3626
+khorfakan	25.3313	56.342
+khor kalba	25.0384	56.3626
+khor khuwair	25.9658	56.0547
+khouran	25.7162	55.9678
+khubakhib	25.452	56.0938
+khuwair	25.9658	56.0547
+kuways	25.781	55.9787
+laiyah	25.354	55.3719
+latir	23.1626	53.7362
+lisaili	25.6268	56.0081
+lulaiyah	25.3926	56.3546
+lumweijah	24.2017	55.7164
+ma'airidh	25.8105	55.9647
+ma'ataradh	24.219	55.7399
+madaq	25.3391	56.1049
+madha	25.2834	56.3328
+madinat za'id	23.6307	53.7299
+magrobiyya	25.2	56
+mahtarraqah	25.5409	56.1307
+maidaq	25.3391	56.1049
+manai'i	24.9513	56.15
+manamah	25.3299	56.0219
+manqasnah	26.035	56.148
+marawah	24.2946	53.3307
+marbad	25.3254	56.1331
+marbah	25.2762	56.3626
+ma`rid	25.8105	55.9647
+mas`adi	24.2663	55.7412
+mashrub	23.0765	54.0135
+mas'ud	24.2663	55.7412
+mausal	23.0135	54.1545
+ma`yarid	25.8105	55.9647
+mezaira'a	23.1435	53.7881
+milqata	23.0667	53.5333
+mirba	25.2762	56.3626
+mirfah	24.0991	53.4908
+mizeir`ah	23.1435	53.7881
+mondafanah	24.1167	55.8
+mozayri`	23.1435	53.7881
+muaifi	25.3617	56.3447
+mughairah	24.0784	53.5384
+muhtarqah	25.5409	56.1307
+mundafnah	24.1167	55.8
+murawwah	24.2946	53.3307
+musafi	25.3013	56.1653
+mushayrib	23.0765	54.0135
+musil	23.0135	54.1545
+mutaradh	24.219	55.7399
+muwafi	25.3617	56.3447
+nadd shubayh	25.1458	55.3342
+nahai	25.2707	56.3624
+nahawa	25.2682	56.28
+nashshash	23.0811	54.0364
+naslah	24.8659	56.2609
+nedaifi	25.3617	56.3447
+nefair	23.1039	53.7892
+nishash	23.0811	54.0364
+nuslah	24.8659	56.2609
+'odaid	24.6167	51.4
+palhain	25.6841	55.9675
+port khor fakkan	25.3313	56.342
+qalba	25.0746	56.3554
+qamh	24.7867	56.1414
+qaraiyah	25.2378	56.3613
+qarat ad dulm	25.8603	56.025
+qarmadah	23.1196	53.8286
+qatarah	24.2599	55.7557
+qatuf	23.1097	53.7274
+qidfa	25.3043	56.3703
+qima	24.7867	56.1414
+quor	24.9121	56.0957
+qurayyah	25.2378	56.3613
+qusaidat	25.7746	55.97
+qutuf	23.1026	53.7116
+ramla	25.3598	56.0445
+raml sabil	25.2041	55.2875
+rams	25.8766	56.0186
+ras al khaimah	25.7895	55.9432
+ras dibba	25.6055	56.305
+rashdia	25.2236	55.3889
+righeilat	25.1055	56.3563
+riyama	25.5456	56.0584
+rol dadnah	25.5548	56.3455
+rugheilat	25.1055	56.3563
+rul dabbah	25.6011	56.3228
+rul dadnah	25.5548	56.3455
+rul dibah	25.6011	56.3228
+ruwais	24.1103	52.7306
+sa`bah	24.9942	56.025
+sabakha	23.3	53.8
+sabkha	23.1292	53.9818
+sahawat	25.9667	56.0833
+sakamkam	25.1747	56.3304
+sal	25.9367	56.1722
+shaam	26.0279	56.0835
+sharam	25.4708	56.3532
+sharga	25.3573	55.4033
+shauka	25.1	56
+shib al gat	24.0528	55.7197
+shimil	25.8178	56.0109
+shokah	25.1	56
+shuways	25.781	55.9787
+sram	25.4982	56.0572
+sufad	25.2216	56.3239
+suheila	24.8039	56.1945
+sulaymat	24.2219	55.6031
+sumbrair	25.6008	56.2844
+taiyibah	25.4123	56.1707
+taraif	24.054	53.7635
+tawian	25.5568	56.0765
+tawi as siji	25.2476	56.0772
+tayibah	25.4123	56.1707
+tereg	23.1166	53.607
+tharwaniyyah	23.1109	54.0157
+theeb	25.245	56.3421
+thoban	25.3033	56.0279
+ud al beida	25.0162	55.4553
+`ujman	25.4069	55.4441
+um al quweim	25.5647	55.5552
+umm as suqaym	25.1502	55.2059
+umm grain	23.1	53.7
+`uyaynah	25.4528	56.1688
+wa'abain	25.5705	56.1353
+waafit	23.1026	53.7116
+wahala	24.909	56.3032
+wedheil	23.0474	54.1333
+wefid	23.1026	53.7116
+western mariyyah	23.1027	53.5818
+wudhayl	23.0474	54.1333
+yaif	23.1579	53.7776
+yalah	25.4152	56.155
+yumul al quwain	25.5647	55.5552
+zayah	25.8878	56.0582
+zubara	25.4049	56.3597
+zuweihir	23.1392	53.6934
+`aaqadari yosufkhel	33.0519	68.65
+aba	32.6695	62.1612
+abah kah	36.6736	69.0782
+abak	34.235	67.1916
+abakeh	36.6736	69.0782
+aba khel	34.7442	70.2878
+abanda	33.282	64.6481
+aband	35.475	69.8711
+ab `aref	35.1198	61.4851
+abas	33.333	67.643
+`abas`ali	32.8134	65.968
+abash	34.2489	68.6083
+abaskhankala	32.504	69.2098
+abas khel	31.9759	67.5918
+abaskushta	34.3313	67.6407
+abay	33.385	67.4946
+abazay	31.9167	67.7422
+abbaakhayi-nakhri-saradzh	31.719	64.6007
+abbakhsh	34.8693	63.2742
+ab bala	34.7254	67.7362
+ab band	38.2906	70.8255
+abband	34.4903	68.2886
+ab band matkat	38.2906	70.8255
+ab barik	35.578	65.1018
+`abbas	33.333	67.643
+`abbas `ali	32.8134	65.968
+`abbasha-ye helmand	31.7919	64.5664
+`abbas kala	32.7825	67.8005
+abbaskhankala	32.4692	69.2071
+abbaskhei samali	32.832	69.1234
+`abbas khel	31.9759	67.5918
+`abbas khel-e junubi	32.6719	69.1347
+abbaskhel samali	32.832	69.1234
+`abbas kheyl	31.9759	67.5918
+`abbaskheyl	32.8314	69.2606
+abbaskheyl'-dzhanubi	32.6719	69.1347
+`abbaskheyl-e shemali	32.832	69.1234
+`abbaskoshteh	34.3313	67.6407
+ab bazan	36.9335	69.9452
+abbazha-i-helmand	31.7919	64.5664
+abbazha-i-nahre saraj	31.719	64.6007
+abbazha-ye helmand	31.7919	64.5664
+ab bazha-ye nahr-e saraj	31.719	64.6007
+abbazkhayi-gil'mand	31.7919	64.5664
+abbedak	33.4823	64.3106
+ab bordeh	33.0879	67.4373
+abcakan	33.8942	69.2358
+ab carmi	35.4369	61.3857
+ab cenar	36.8832	70.1601
+abchak	33.8182	65.8808
+abchakan	33.8942	69.2358
+abchang	34.1515	63.4195
+ab charmi	35.4369	61.3857
+ab chekan	33.8942	69.2358
+ab chenar	36.8832	70.1601
+abdak	34.1069	64.1679
+abdakay	32.234	68.2449
+abdak-e balenah	34.8747	66.5436
+abdak-e taynah	34.8721	66.5379
+abdakey	31.8077	66.4872
+abdal-e pasha khan	35.7189	64.5497
+abdal'khankala	32.6695	62.4393
+abdallahkhel	35.2473	69.6156
+abdana	33.3143	67.1982
+abdan	36.0339	66.1219
+ab danah	33.3143	67.1982
+abdang	34.0529	62.9321
+abdan-i-mir alam	36.6567	68.3705
+abdara	33.6663	68.0096
+ab dara	36.2885	66.8539
+abdara	35.7678	66.5633
+ab darah	38.1018	70.4655
+abdarah	33.6663	68.0096
+ab darah	34.7112	69.3196
+ab daraz	35.3962	61.3586
+abdarra	33.8578	68.7419
+ab darrah	38.1018	70.4655
+abdarreh	33.6663	68.0096
+ab darreh	33.8578	68.7419
+abdarreh	34.315	68.868
+ab darreh	33.7537	65.848
+ab darwayshan	34.4208	67.9894
+abdaw	36.6215	71.1872
+ab deraz	35.3962	61.3586
+`abd es salam	32.775	67.0339
+`abdian	34.4528	70.4733
+abdibay	35.0295	69.2322
+ab dokan	33.5956	63.5116
+`abdolabad	34.3347	62.2511
+`abdol	35.6547	64.6067
+`abd ol ahad beyg kamari	35.0837	63.1716
+`abd ol ahadkhan kariz	31.8423	65.8548
+abdol ahd bay kamari	35.0741	63.1517
+abd ol ali khan kalay	31.3289	64.2804
+`abd ol `alim kalay	31.2297	64.2064
+`abd ol `aziz	31.1473	62.0907
+`abdol `aziz kalay	31.6842	64.3625
+`abd ol baqi	32.0961	65.862
+abdol baqikhan kalay	31.4786	67.0224
+`abdoleh khan	31.1093	61.8654
+`abd ol habib kalay	30.7253	64.0964
+`abd ol hakim	34.74	62.2454
+`abd ol hakim kalay	31.0961	66.6211
+`abd ol hamid	31.1921	62.154
+`abd ol hamid kalay	33.2975	68.2802
+`abd ol hamid kowtkay	33.2542	69.8592
+`abd ol haqq	35.2568	63.4867
+`abd ol haqq kalay	31.9322	66.6548
+`abd ol hezar beyg	37.4744	69.6957
+`abd ol kala	33.2444	68.8286
+`abd ol kalay	31.587	67.4062
+`abd ol karim khan	34.6999	62.5351
+`abdolkarimkheyl	35.128	69.0566
+`abd ol karim taraki	35.0876	63.2589
+`abdolkheyl	34.9507	69.6092
+`abdollah akhvondzadeh kariz	31.5382	65.0561
+`abdollah jan	34.9525	61.6868
+`abdollahjan kalay	31.1092	64.1801
+`abdollah kala	32.8739	67.447
+`abdollah kalay	31.3075	64.2547
+`abdollahkhan	34.7898	63.5026
+`abdollah khan	34.9843	61.6854
+`abdollahkhan	31.5092	65.3019
+`abdollah khan	32.8644	68.5815
+`abdollahkhan	32.8471	66.024
+`abdollah khan kala	32.8644	68.5815
+`abdollahkhan kalay	31.5701	66.3717
+`abdollah khan kalay	31.7169	67.3799
+`abdollahkheyl	35.2473	69.6156
+`abdollah kur	31.8432	64.6045
+`abd ol majid khan	31.1568	62.032
+`abd ol malek	35.9293	68.0104
+abdol mohey od din kalay	33.7753	68.5108
+`abd ol nazar beyg	37.4744	69.6957
+`abd ol qader	32.2078	67.2667
+`abd ol qayum kalay	32.4483	66.8796
+`abdolqodduskhan kalab	31.4249	65.7114
+`abd ol rahim	33.2911	68.4167
+`abd ol rahim kalay	31.5624	66.3357
+`abd ol rahim kheyl	33.9112	68.4411
+`abd ol rahman	31.0872	61.8392
+`abd ol rahman-e gargud	31.0296	61.844
+`abd ol rahman-e ya`qub	30.9367	61.8711
+`abd ol rahman khan	31.588	65.4827
+abd ol rahman kur	32.3516	66.6658
+`abd ol rashid	33.3778	68.4969
+`abd ol razzaq	31.514	65.3772
+abd ol salam	32.775	67.0339
+abd ol samad kalay	31.8018	65.7702
+`abd ol samad khan	31.2197	61.7806
+abd ol samad khan	31.2314	62.174
+`abd ol vahed	32.1045	65.8647
+`abd ol vahedkhan	31.1719	61.8027
+`abd ol vahhab kalay	32.6687	67.7547
+`abd ol vahid kalay	31.6889	64.3038
+`abd ol val	33.3242	68.4947
+`abd or rahim	33.2911	68.4167
+`abd or rahim kalay	31.5624	66.3357
+`abd or rahimkheyl	33.9112	68.4411
+`abd or rahimzi	34.4464	69.8997
+`abd or rahman	34.2406	69.2572
+`abd or rahman chambar	32.6878	68.1182
+`abd or rahmani	34.2265	70.3963
+`abd or rahman kala	34.3989	68.9894
+`abd or rahman kalacheh	32.0663	66.8373
+`abd or rahman kariz	32.1778	64.7253
+`abd or rahman khan	31.588	65.4827
+`abd or rahman kheyl	32.0772	67.7961
+`abdorrahmankheyl	35.137	69.0553
+`abd or rahman kheyl kariz	32.0866	67.7965
+`abd or rahman kur	32.3516	66.6658
+`abd or rahman ya`qub	30.9353	61.8706
+`abd or rahmanzay	31.332	66.1684
+`abd or rashid	33.3778	68.4969
+`abd or rashid kariz	31.8021	64.4997
+`abd or razzaq	31.514	65.3772
+`abd os salam	32.775	67.0339
+`abd os samad kalay	31.8018	65.7702
+`abd os samad khan	31.2314	62.174
+abdow	36.6215	71.1872
+abdrrakhimzi	34.5087	70.2313
+ab dukan	33.5956	63.5116
+`abdulabad	34.3347	62.2511
+`abdul	35.6547	64.6067
+abdul	31.6889	64.3038
+`abdul	36.7536	69.4564
+`abdul ahad bay kamari	35.0741	63.1517
+abdul ahad bay kamari	35.0837	63.1716
+`abdul ahadkhan karez	31.8423	65.8548
+abdul ahd bay kamari	35.0741	63.1517
+abdul'akhadkhan-karez	31.8423	65.8548
+abdul`alikhan kalay	31.3289	64.2804
+abdul`alim kalay	31.2297	64.2064
+`abdul`alim kalay	31.7025	64.2869
+`abdul `alim kelay	31.2297	64.2064
+`abdul `aziz	31.1473	62.0907
+abdul'aziz-kalay	31.6842	64.3625
+`abdul`azizkhan	30.9139	61.8081
+abdul'baki	32.0961	65.862
+abdul'bakikhan-kalay	31.4786	67.0224
+abdul'bakir	31.8933	66.4064
+`abdulbaqi	31.1154	61.8273
+`abdul baqi	32.0961	65.862
+`abdul baqi	31.8933	66.4064
+abdul baqikhan kalay	31.4786	67.0224
+`abdulbari kor	32.5135	68.1282
+`abdulgan	35.8117	66.7268
+`abdulgoduskhan kalab	31.4249	65.7114
+abdulhabib kalay	30.7253	64.0964
+`abdul hakim	34.74	62.2454
+'abdul hakim kalay	31.0961	66.6211
+`abdulhamid	31.1921	62.154
+`abdulhamid kalay	33.2975	68.2802
+`abdulhamid kotkay	33.2542	69.8592
+`abdul haq	35.2568	63.4867
+`abdul haq	35.434	63.3887
+`abdul haq kalay	31.9322	66.6548
+abdul hazar beg	37.4744	69.6957
+`abdulkader kalay	32.2078	67.2667
+abdul'kala	33.2444	68.8286
+abdul'kala	33.2742	68.8703
+`abdul kalay	31.587	67.4062
+`abdulkarim	31.1006	61.8417
+`abdul karim khan	34.6999	62.5351
+abdul'karimkhel'	35.128	69.0566
+`abd ul karim taraki	35.0876	63.2589
+abdul'kayum-kalay	32.4483	66.8796
+`abdul kelay	31.587	67.4062
+abdul'khakim	34.74	62.2454
+abdul'khakim-kalay	31.0961	66.6211
+abdul'khakkalay	31.9322	66.6548
+abdul'khamid	33.9179	63.4457
+abdul'khamid-kalay	33.2975	68.2802
+abdul'khamid-kotkay	33.2542	69.8592
+`abdulkhel	34.9507	69.6092
+`abdulkhel	34.5129	70.5647
+abdul'kheyl'	34.9507	69.6092
+abdul'kuduskhan-kalay	31.4249	65.7114
+abdulla	32.6577	68.7872
+abdulla-akhundzada-karez	31.5382	65.0561
+abdulladzhan-kalay	32.707	66.7161
+`abdullah	32.6577	68.7872
+`abdullah akhundzadah karez	31.5382	65.0561
+`abdullah jan	34.9525	61.6868
+abdullahjan kalay	31.1092	64.1801
+`abdullahjan kalay	32.707	66.7161
+`abdullah jan kelay	31.1092	64.1801
+abdullah jan kili	33.3797	70.0294
+`abdullah kala	32.8739	67.447
+`abdullah kalay	31.0899	64.1903
+`abdullah karez	32.3997	61.9578
+`abdullah kelay	31.0899	64.1903
+`abdullahkhan	34.7898	63.5026
+abdullahkhan	31.1093	61.8654
+abdullahkhan	31.1636	61.8419
+`abdullahkhan	31.5092	65.3019
+abdullahkhan	32.8644	68.5815
+`abdullah khan	32.8471	66.024
+`abdullahkhan kala	32.8644	68.5815
+`abdullahkhan kalay	31.5701	66.3717
+`abdullah khan kalay	31.7169	67.3799
+`abdullahkhan kalay	32.2225	67.2914
+`abdullah khan kelay	31.5701	66.3717
+`abdullahkhel	35.2473	69.6156
+`abdullah kor	31.8432	64.6045
+abdullakala	32.8739	67.447
+abdullakalay	32.0568	64.8233
+abdullakhan	34.7898	63.5026
+abdullakhankalay	31.5701	66.3717
+abdullakhan-kalay	31.683	66.8944
+abdullakheyl'	35.2473	69.6156
+abdullakor	31.8432	64.6045
+`abdulmajid bandah	34.6396	70.3895
+`abdulmajidkhan	31.1568	62.032
+`abdul malik	35.9293	68.0104
+abdul masek	32.3755	64.9993
+abdulmohayedin kalay	33.7753	68.5108
+`abdul nazar beg	37.4744	69.6957
+abdulqader kalay	32.2078	67.2667
+abdul qayum kalay	32.4483	66.8796
+`abdulqoduskhan kalay	31.4249	65.7114
+abdul rahaman	31.3206	65.9611
+`abdul rahim	33.2911	68.4167
+`abdul rahimzai	34.4464	69.8997
+abdul rahman	31.3206	65.9611
+`abdul rahman kalachah	32.0663	66.8373
+`abdul rahman kor	32.2094	68.4594
+abdul rakhman kili	30.9583	66.4317
+`abdul rashid	33.3778	68.4969
+`abdul razaq	32.6438	66.2182
+`abdul salam	32.775	67.0339
+abdul samad kalay	31.8018	65.7702
+`abd ul samad khan	31.2197	61.7806
+`abdulsamadkhan	31.2314	62.174
+abdul-samed-kalay	31.8018	65.7702
+abdul'vakhab-kalay	32.6687	67.7547
+abdul'vakhid	32.1045	65.8647
+abdul'vakhid-kalay	31.6889	64.3038
+abdul'val'	33.3242	68.4947
+'abdul wahab kalay	32.6687	67.7547
+`abdul wahed	32.1045	65.8647
+`abdul wahed kalay	31.0912	64.2034
+abdulwahed kalay	31.6889	64.3038
+abdulwahedkhan	31.1719	61.8027
+`abdul wahid	32.1045	65.8647
+`abdul wahid kelay	31.0912	64.2034
+`abd ul wahid khan	31.1719	61.8027
+`abdulwal	33.3242	68.4947
+abdulzaher	31.0672	61.8633
+abdurakhim-kalay	32.7005	66.7149
+abdurashid-chambar	32.4044	67.5286
+`abdurrahim	33.2911	68.4167
+`abdur rahim	32.0726	65.8734
+`abdur rahim kalay	31.5624	66.3357
+abdur rahim kalay	32.7005	66.7149
+`abd ur rahim kelay	31.5624	66.3357
+`abdur rahim kelay	32.7005	66.7149
+abdurrahimkhel	33.9112	68.4411
+`abd ur rahimzai	34.5087	70.2313
+`abd ur rahimzi	34.308	69.1688
+abdurrahimzi	34.4464	69.8997
+`abdurrahimzi	34.5087	70.2313
+`abdurrahman	34.2406	69.2572
+abdurrahman	31.1336	61.8222
+abdur rahman	33.7496	69.7981
+abdur rahman cambar	32.6878	68.1182
+`abd ur rahman-e kargud	31.0296	61.844
+`abdurrahmani	34.2265	70.3963
+`abd ur rahman kala	34.3989	68.9894
+`abdurrahman kalaca	32.0663	66.8373
+`abdur rahman karez	32.1778	64.7253
+abdurrahman kargud	31.0296	61.844
+`abdurrahmankhan	31.588	65.4827
+`abdurrahmankhan kala	34.3989	68.9894
+abdurrahmankhel	32.0772	67.7961
+`abdurrahmankhel	35.137	69.0553
+abdurrahmankhel karez	32.0866	67.7965
+`abdur rahman kor	32.3516	66.6658
+abdurrahman kor	32.2094	68.4594
+`abdurrahman ya`qub	30.9353	61.8706
+`abd ur rahmanzai	31.332	66.1684
+abdurrakhim	33.2911	68.4167
+abdurrakhim-kalay	31.5624	66.3357
+abdurrakhimkheyl'	33.9112	68.4411
+abdurrakhimzi	34.4464	69.8997
+abdurrakhman	33.9052	63.3229
+abdurrakhman-chambar	32.6878	68.1182
+abdurrakhmani	34.2265	70.3963
+abdurrakhman-karez	32.1778	64.7253
+abdurrakhmankhan	31.588	65.4827
+abdurrakhmankhan-kala	34.3989	68.9894
+abdurrakhmankheyl'	32.0772	67.7961
+abdurrakhmankheyl'-karez	32.0866	67.7965
+abdurrakhmankor	32.3516	66.6658
+abdurrakhmanzay	31.332	66.1684
+abdurrakman-kalacha	32.0663	66.8373
+abdurrashid	33.3778	68.4969
+abdurrashid karez	31.8021	64.4997
+`abdurrasid	33.3778	68.4969
+`abdurrasid karez	31.8021	64.4997
+abdurrazak	31.514	65.3772
+`abdurrazaq	31.514	65.3772
+`abdurrazaq	32.6438	66.2182
+abd'yan	34.4528	70.4733
+abdzhalil'	34.3598	62.0351
+abdzhoshi-bala	33.8486	68.8311
+abdzhoshi-pain	33.8511	68.8725
+ab-e ahmad	35.7707	66.8874
+ab-e `aref	35.1198	61.4851
+ab-e barik	34.6519	63.7828
+ab-e barik-e ghalmani	34.9165	62.7136
+ab-e barik-e qowdi	34.9029	62.7201
+ab-e baydak	33.4823	64.3106
+ab-e darah	36.3982	67.2339
+ab-e deraz	35.3962	61.3586
+abedkhel	35.8969	69.5135
+ab-e faizab	35.107	61.4856
+abegak	33.9072	65.8104
+ab-e garmak	35.0156	63.1421
+abeh	32.679	62.2504
+ab-e kamari	35.088	63.0678
+ab-e khanah	36.4341	67.1441
+abe khel	35.0881	69.5922
+abelan	31.5609	64.4178
+ab-e safayd	34.9663	61.6083
+ab-e shayr ahmad	36.8323	70.3593
+ab-e shor	36.9414	69.3181
+abestan	33.326	61.9504
+ab-e tal	36.4827	67.2207
+abeykheyl	35.0881	69.5922
+ab fayzab	35.107	61.4856
+ab feros	37.1462	69.1103
+ab gach	36.9957	72.7017
+ab gaj	36.9847	72.7396
+abganda	37.4959	70.2452
+ab gard	38.0011	70.4762
+abgardu	34.5381	67.3364
+abgarmak	34.6621	63.6003
+ab garmi	35.4369	61.3857
+ab gerd	35.018	68.9441
+ab gozar	35.2928	61.4716
+ab-i-aref	35.1198	61.4851
+abi-barik	34.6519	63.7828
+ab-i-barik	34.7398	62.4224
+ab-i-barik-i-ghalmani	34.9165	62.7136
+ab-i-barik-i-qudi	34.9029	62.7201
+abi dara	36.3982	67.2339
+`abid khel	35.8969	69.5135
+ab-i-faydzab	35.107	61.4856
+abigak	33.9072	65.8104
+ab-i-garmak	35.0156	63.1421
+ab-i- garmak	35.7291	63.8657
+ab-i-garmak	35.7372	63.8288
+abi jan	31.5317	64.3573
+ab-i-kamari	35.088	63.0678
+abi khana	36.4341	67.1441
+abi khel	35.0881	69.5922
+ab-i-safed	34.9663	61.6083
+ab-i-ser ahmad	36.8323	70.3593
+abi-shor	36.9414	69.3181
+abistan	33.326	61.9504
+abistan-e bala	33.3449	61.9401
+abistan-e pa'in	33.3408	61.9526
+ab-i-tal	36.4827	67.2207
+ab jalil	34.3598	62.0351
+abjose bala	33.8486	68.8311
+abjose pa'in	33.8511	68.8725
+abjosh-e bala	33.8486	68.8311
+abjosh-e pa'in	33.8511	68.8725
+abjush-e bala	33.8486	68.8311
+abjush-e pa'in	33.8511	68.8725
+abkhana	34.1827	63.185
+abkhanah	34.1827	63.185
+ab khanah	31.9734	64.9584
+ab khaneh	34.1827	63.185
+abkhaneh	34.3483	68.6767
+ab khel	33.3678	70.0669
+abkheng	33.9651	63.2304
+abkho	33.1075	67.4273
+ab khoda'i	34.8841	62.744
+abkhor	35.8612	66.567
+ab khowrak	35.5035	67.7606
+ab khuda`i	34.8841	62.744
+abkhvor	34.8097	63.7915
+ab khvorak	35.8313	68.4081
+ab khvorak-e bala	35.4985	67.7433
+ab khvorak-e pa'in	35.5035	67.7606
+ab khwarah	33.599	63.6484
+ab kolok	37.0597	66.0433
+abkul'	35.8815	68.9966
+ab kuluk	37.0528	66.0391
+ablah-e miranza'i	35.0514	63.2966
+ablan	34.1633	62.8158
+abma`in	33.8426	63.371
+ab mazar	33.3435	63.7647
+ab naray	33.8661	68.6222
+aboka	34.245	66.912
+abo kala	31.6225	67.2291
+abol	34.2317	65.3688
+aboli	34.2595	66.0716
+abolkheyl	34.3658	68.8397
+abo tanga	34.5689	70.8931
+abowl	34.2317	65.3688
+abowzi	31.5766	66.5693
+abozai	30.1378	66.0043
+abpar	34.9659	67.865
+abparan	34.1939	66.8739
+abparan	33.3493	64.6565
+abparan	34.0098	65.3338
+abparan	34.2069	69.2515
+abparan	33.0786	66.7889
+abparan-e bala	34.2069	69.2515
+abparan-e pa'in	34.2238	69.2328
+abpartaw	35.7547	66.6362
+abparu	34.4531	66.181
+abpay	34.2744	68.1258
+abpuda	34.7553	63.6881
+ab qol	35.8815	68.9966
+abqol	34.0464	66.7764
+ab qowl	35.8815	68.9966
+abqowl	34.0464	66.7764
+abragal	35.1456	71.3607
+abrahamgul kalay	33.2754	69.7995
+abrahgah	34.2755	67.1656
+abrak	34.3949	66.6818
+abrakhamgul'-kalay	33.2754	69.7995
+abrava	34.2567	64.0463
+abrawa	34.2567	64.0463
+abraw	36.4021	69.3658
+ab raygak	34.5875	66.3596
+abrayjan	35.2448	64.0346
+ab rayzi	34.2685	63.2151
+abrejan	35.2448	64.0346
+abr-e kalo	33.9139	66.6322
+abreshminkheyl'	32.8794	68.1348
+abrez	34.4064	65.4339
+abrezi	34.2685	63.2151
+abrigak	34.5875	66.3596
+abrishamin khel	32.8794	68.1348
+ab rizi	34.2685	63.2151
+abrosan	33.1265	67.3402
+abrow	36.3891	69.3523
+abrowah	34.2567	64.0463
+abroweh	34.2567	64.0463
+ab rowshan	33.1265	67.3402
+ab sakhak	37.3554	69.9352
+absara	34.5617	64.0815
+absar	35.1936	63.0248
+ab sarina	36.0644	68.9595
+absarina	36.7868	69.373
+ab sarinah	36.0644	68.9595
+absar-teba	34.4686	69.1136
+absekan	34.1359	63.7366
+absekane bala	34.1328	63.7457
+abshaday	33.0458	62.1823
+ab shakhak	37.3554	69.9352
+abshara	34.5617	64.0815
+abshar	35.1936	63.0248
+absharah	34.5617	64.0815
+abshareh	34.1922	63.4142
+abshar tappeh	34.4686	69.1136
+abshekan	34.1359	63.7366
+abshekan-e bala	34.1328	63.7457
+abshikan	34.1359	63.7366
+abshikan-e bala	34.1328	63.7457
+ab shorah	35.1936	63.0248
+absiti	37.1533	70.5154
+ab sora	35.1936	63.0248
+absorkh	34.1946	63.6257
+ab sulakh	32.5051	62.0614
+abtak	33.47	65.58
+abtay	33.5609	64.3213
+abtu	34.4714	66.9727
+abtugak	34.3883	67.2161
+abu chan	31.6225	67.2291
+abuka	34.245	66.912
+abu kala	31.6225	67.2291
+abul	34.2317	65.3688
+abulhasan	32.0219	65.0431
+abuli	34.2595	66.0716
+abul'khasan	32.0219	65.0431
+abul khel	32.3115	67.6085
+abu ol hasan	32.0219	65.0431
+abutanga	34.5689	70.8931
+abzi khoda'i	34.8876	63.068
+ab zumc	37.5406	70.539
+aca	36.9551	69.5524
+acabazar	34.3957	66.2329
+acagal	35.1441	71.3964
+acakhel	34.3192	68.7008
+acakza`i	35.4942	63.3781
+acakzo soznay	31.9042	65.7601
+acal	34.8474	71.0513
+acalak bandeh	35.0469	70.9872
+acama	35.4447	69.6992
+acamazar	34.0886	66.8233
+acani	34.2861	66.9319
+acanu	35.0974	70.7011
+acarkhel	33.1381	69.5054
+aceka	32.4735	67.1904
+acek	35.8172	64.1911
+acekza'i	34.7481	70.1177
+acekzi	31.5467	65.2985
+aceska	35.1518	63.0588
+acha	36.9551	69.5524
+achabazar	34.3957	66.2329
+achagal'	35.1441	71.3964
+achah	36.9551	69.5524
+achah bazar	34.3957	66.2329
+achah khel	34.3192	68.7008
+achahmazar	34.0886	66.8233
+achah mily	36.1139	66.9758
+achahnu	35.0974	70.7011
+achakhel	34.3192	68.7008
+achakza`i	35.4942	63.3781
+achakzusoznay	31.9042	65.7601
+achal	34.8474	71.0513
+achalak bandah	35.0469	70.9872
+achama	35.4447	69.6992
+achamazar	34.0886	66.8233
+acha mily	36.1139	66.9758
+achani	34.2861	66.9319
+achanu	35.0974	70.7011
+acharkheyl'	33.3194	69.8349
+achehbazar	34.3957	66.2329
+achek	35.8172	64.1911
+acheshka	35.1518	63.0588
+achika	32.4735	67.1904
+achik	35.8172	64.1911
+achikzai	34.7481	70.1177
+achikzi	31.5467	65.2985
+achin	34.0825	70.6682
+achishkah	35.1518	63.0588
+achu	33.0577	67.9821
+acin	34.0825	70.6682
+acu	33.0577	67.9821
+ada	33.5707	68.7563
+adadkhel	34.2636	70.2165
+adah	33.5707	68.7563
+adahwar bibi shelgar	33.7783	68.8533
+adam	32.5927	68.0995
+adam ceray	34.7138	69.8147
+adamkala	33.5507	68.7955
+adam kanda	31.89	67.8572
+adamkhakalay	32.8068	69.2876
+adam khan	35.2581	63.5688
+adamkhan kalay	32.221	66.1645
+adam khan kelay	32.221	66.1645
+adamkhel	33.7006	68.2031
+adamkhel	34.4256	70.3075
+adamkhel	34.0722	68.5228
+adamkheyl'	33.7006	68.2031
+adamkheyl	34.4256	70.3075
+adamkheyl	34.0722	68.5228
+adam kheyl	32.7487	66.9796
+adam kodali	32.9587	68.6476
+adam tash	36.1105	67.3046
+adam tseray	34.7138	69.8147
+adamwak	35.2026	71.0515
+adamza'i	31.4853	65.5289
+`adasak	33.4942	65.2261
+adavar	33.7783	68.8533
+aday	30.7496	61.8296
+adchat tantil	34.9689	70.9667
+adekhota	32.6886	68.6439
+'adela	33.1114	66.7256
+`adel	34.7814	68.5656
+`adelah	33.1114	66.7256
+adem tamu	32.3532	66.3602
+adenkhel	33.4484	69.0675
+aderellah kalay	35.1419	71.3314
+ade saheb	34.4073	70.8611
+adgala	33.0048	69.4086
+adi	30.7556	61.8245
+adih nazrow	36.3775	66.1855
+adil'	34.7814	68.5656
+`adilah	33.1114	66.7256
+adimtamu	32.3532	66.3602
+adina	32.3921	65.2087
+adin	33.255	68.469
+adinah	32.3921	65.2087
+adinah jar	36.3833	66.15
+adinah khel	34.8869	69.8328
+adinah masjid	36.8939	66.7014
+adinakhel	34.8869	69.8328
+adinamasdzhid	36.8939	66.7014
+adinchina	31.7928	67.8695
+adinehkheyl	34.8869	69.8328
+adini	33.0842	68.2875
+adinkala	32.8278	68.5622
+adin kalay	32.8805	66.0692
+adinkhel	33.5552	67.2644
+adinkheyl	33.5552	67.2644
+adin kheyl	32.5952	68.038
+adinkheyl'	33.4484	69.0675
+adinkheyl	34.8034	69.3542
+adinzai	31.8628	64.6681
+adipas	36.1143	70.0178
+adira	31.6797	65.6033
+adirah	31.6797	65.6033
+adire kalay	32.8463	67.2824
+adirilla-kalay	35.1419	71.3314
+adi sana-i-wazbi	35.0403	63.0476
+adiza'i	34.8845	69.6578
+adnyal	37.5136	70.4466
+ado	32.1098	67.1226
+ado kalay	32.3181	65.5937
+ado khel	34.68	70.1597
+ador	34.2692	70.2777
+adorunta khwara	35.2796	71.3623
+adoso	35.1753	70.2091
+adowr	34.2692	70.2777
+adowzay	31.5522	67.2006
+adowzi	30.9592	66.3283
+adozai	31.5522	67.2006
+adozi	30.9592	66.3283
+adramzai	36.7167	66.8111
+adraskan	33.6457	62.2696
+adreskhel	33.0293	68.2885
+adring	36.0917	66.0642
+adriskan	33.6457	62.2696
+adris khel	33.0293	68.2885
+adro kala	33.4419	68.3
+adrokhel	33.2517	68.3881
+adrukala	33.4419	68.3
+adu	32.1098	67.1226
+adukalay	32.3181	65.5937
+adukheyl	34.68	70.1597
+adulai	31.6914	67.5775
+adurunte-khvara	35.2796	71.3623
+adusu	35.1753	70.2091
+aduza`i	32.5518	65.3924
+adval'	34.8563	71.0614
+adzhabshagi	34.8392	71.2488
+adzhal'	36.7769	69.1648
+adzhar	34.0499	67.3359
+adzhida	34.0277	67.3911
+adzhigan	37.1569	68.8522
+adzhrum	32.1944	64.0558
+afaki	36.6617	69.351
+afaqi	37.2036	70.4249
+afdzal	34.7728	61.9503
+afdzal kala	33.1203	69.4855
+afdzal kalay	30.9772	66.2594
+afdzal khel	32.8274	67.8431
+afdzalkhel	34.1131	68.5081
+afgani-doshi	35.6256	68.6886
+afgankha	36.6955	69.5857
+afgan'ya	34.9596	69.6186
+afghan-e doshi	35.6256	68.6886
+afghanha	36.6955	69.5857
+afghania	36.1167	66.25
+afghani	31.9473	64.8842
+afghaniah	34.9596	69.6186
+afghaniyah	36.1167	66.25
+afghan kot	35.9131	64.7866
+afghan tapah	36.5315	65.7983
+afghanya	34.9596	69.6186
+afrij	37.0204	71.026
+afsare bala	34.5371	69.1101
+afsare nanaci	34.5291	69.1119
+afsay	35.7701	71.3547
+afshar	34.5291	69.1119
+afshar-e bala	34.5371	69.1101
+afshar-e darulaman	34.4686	69.1136
+afshar-e nanachi	34.5291	69.1119
+afshari-bala	34.5371	69.1101
+afshari-nanachi	34.5291	69.1119
+aftabachi	35.0862	69.3402
+aftab lagh	37.1701	69.0814
+aftadah kelay	32.637	62.0022
+aftada kalay	32.6333	61.9833
+aftadakalay	32.637	62.0022
+aftu	34.4947	66.5165
+aftualab	34.8842	62.0956
+afzai khan	36.4566	65.8088
+afzal	34.7728	61.9503
+afzal'kala	33.1203	69.4855
+afzal'kalay	30.9772	66.2594
+afzal khel	32.8274	67.8431
+afzal kheyl	32.8274	67.8431
+afzal'kheyl'	34.1131	68.5081
+afzal'kheyl'	33.6626	69.3314
+afzal'kheyl'	33.1885	69.5509
+aga-akhmed	32.3206	65.0091
+aga burut	34.8295	62.5226
+agadzham	34.1982	67.9485
+agadzhan	32.7357	66.2163
+ag	34.355	67.457
+agagul'kalay	32.6738	69.1262
+agakalay	31.7845	66.9103
+agakarez	31.9707	66.1751
+agakheylu-kalay	31.5767	64.8524
+agakuru	37.1595	69.7682
+agali-khodzha	34.6844	69.058
+agali-sheykhu	34.6786	69.0269
+agam	34.2001	70.2781
+aga-mukhammedbay	36.5611	66.6458
+agamukhammed-kalay	30.8708	66.2561
+agar	33.4575	68.1877
+aga saheb kalay	32.3857	66.7873
+agasi	35.4217	71.3671
+agayri	35.7192	69.3582
+ag chah	36.922	66.1765
+agej	33.6079	63.4003
+agelak	34.8931	69.0983
+ageli-kaka	32.9296	67.5265
+ageli-khan	35.2185	69.2154
+ageli-mulla	32.9338	67.5209
+ageli-torta	34.6548	68.2402
+ageri	35.7192	69.3582
+agha ahmad	32.3206	65.0091
+agha burut	34.8295	62.5226
+aghagol kalay	32.6738	69.1262
+aghajam	34.1982	67.9485
+agha jan	31.8499	66.3391
+agha karez	31.9707	66.1751
+agha khan	33.5896	64.266
+aghakhelo kalay	31.5767	64.8524
+aghale khwaja	34.6844	69.058
+aghale saykhu	34.6786	69.0269
+agha mohammad	35.2094	63.8585
+agha mohammad khan	35.2649	61.315
+agha mohammad nurkhan	31.1961	61.8375
+agha mohammed bai	36.5611	66.6458
+agha mohd-nurkhan	31.1961	61.8375
+agha muhammad	35.2094	63.8585
+agha muhammad bay	36.5611	66.6458
+agha muhammad kala	32.8694	67.4986
+agha muhammad kelay	31.9138	66.5532
+agha muhammad  nur khan	31.1961	61.8375
+aghar	34.1197	68.7392
+agha sahib kelay	32.3857	66.7873
+aghaylak	34.8931	69.0983
+aghela khan	35.2185	69.2154
+agheldeh	33.3174	67.4832
+aghel-e kaka	32.9296	67.5265
+aghel-e khan	35.2185	69.2154
+aghel-e khvajeh	34.6844	69.058
+aghel-e mawla	33.2284	67.4568
