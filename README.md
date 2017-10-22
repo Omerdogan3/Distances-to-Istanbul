@@ -12,6 +12,6 @@ Command line:
   `live-server public`
 
 ## Result
-https://distances-omerdogan3.c9users.io/index.html
+https://omerdogan3.github.io/Distances-to-Istanbul/public/index.html
 
 <a href="https://hizliresim.com/jQXG1r"><img src="https://i.hizliresim.com/jQXG1r.png"></a>
